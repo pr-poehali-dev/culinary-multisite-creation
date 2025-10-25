@@ -273,7 +273,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <h1 className="text-3xl font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-              🍳 Кулинарная книга
+              🍳 vkostryule
             </h1>
             <nav className="hidden md:flex gap-6">
               <a href="#recipes" className="text-gray-700 hover:text-primary transition-colors font-medium">Рецепты</a>
@@ -483,7 +483,7 @@ const Index = () => {
 
       <footer className="bg-gray-900 text-white py-12 px-4 mt-16">
         <div className="container mx-auto text-center">
-          <h2 className="text-3xl font-bold mb-4">🍳 Кулинарная книга</h2>
+          <h2 className="text-3xl font-bold mb-4">🍳 vkostryule</h2>
           <p className="text-gray-400 mb-6">Вкусные рецепты для каждого дня</p>
           <div className="flex justify-center gap-6">
             <a href="#" className="text-gray-400 hover:text-white transition-colors">
