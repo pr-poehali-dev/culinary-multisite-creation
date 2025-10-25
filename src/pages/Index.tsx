@@ -277,7 +277,7 @@ const Index = () => {
                 <span className="text-white text-xl font-bold">В</span>
               </div>
               <h1 className="text-2xl font-bold text-[#2C2D2E]">
-                костюле
+                кострюле
               </h1>
             </div>
             <nav className="hidden md:flex gap-6">
@@ -492,7 +492,7 @@ const Index = () => {
             <div className="w-10 h-10 bg-[#0077FF] rounded-lg flex items-center justify-center">
               <span className="text-white text-xl font-bold">В</span>
             </div>
-            <h2 className="text-3xl font-bold">костюле</h2>
+            <h2 className="text-3xl font-bold">кострюле</h2>
           </div>
           <p className="text-gray-400 mb-6">Вкусные рецепты для каждого дня</p>
           <div className="flex justify-center gap-6">
